@@ -1,3 +1,5 @@
 *.ppt
 *.doc
 *.py
+
+!srikanth.py
